@@ -1,23 +1,21 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Prathyusha Mogulluru",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://MPrathyusha01.github.io/images/picnew.jpg",
+    "email": "prathyusha4501@gmail.com",
+    "phone": "+91 9381869620",
+    "website": "https://MPrathyusha01.github.io",
+    "summary": "Bachelor of Technology \n  Electronics and Communication Engineering \n Sree Venkateswara College of Engineering \n 2018-2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
+      "address": " Nellore , Andhra Pradesh",
+      "postalCode": "524305",
+      "countryCode": "India",
+      },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "MPrathyusha01",
         "url": "http://github.com/changeme"
       },
       {
