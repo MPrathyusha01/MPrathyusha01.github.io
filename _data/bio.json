@@ -59,27 +59,27 @@
       "studyType": "B.Tech.",
       "startDate": "2018",
       "endDate": "2022",
-      "gpa": "70%",
+      "gpa": "70.0 %",
       "courses": [
       ]
     },
     {
       "institution": "Narayana Junior College",
-      "area": "M P C",
+      "area": "BIEAP",
       "studyType": "Class XII",
       "startDate": "2016",
       "endDate": "2018",
-      "gpa": "94%",
+      "gpa": "94.0 %",
       "courses": [
       ]
     },
     {
       "institution": "Sree Chaitanya High school",
-      "area": "",
+      "area": "BSEAP",
       "studyType": "Class X",
       "startDate": "2015",
       "endDate": "2016",
-      "gpa": "8.8",
+      "gpa": "8.8 ",
       "courses": [
       ]
     },
@@ -87,7 +87,7 @@
   "work": [
     {
       "company": "Avishkar Tech Solutions",
-      "website": "",
+      "position": "Machine Learning",
       "startDate": "2020-06-01",
       "endDate": "2020-09-01",
       "summary": "Data Science and Machine Learning internship",
