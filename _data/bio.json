@@ -8,7 +8,8 @@
     "website": "https://MPrathyusha01.github.io",
     "summary": "Bachelor of Technology \n  Electronics and Communication Engineering \n Sree Venkateswara College of Engineering \n 2018-2022.",
     "location": {
-      "address": " Nellore , Andhra Pradesh",
+      "address": " Nellore ",
+      "state": "Andhra Pradesh"
       "postalCode": "524305",
       "countryCode": "India",
       },
@@ -16,76 +17,48 @@
       {
         "network": "github",
         "username": "MPrathyusha01",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/MPrathyusha01"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "MPrathyusha",
+        "url": "http://linkedin.com/in/m-prathyusha"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      
     ]
   },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
+  
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "HTML",
+        "CSS",
+        "MATLAB",
+        
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Data Science & Other Skills",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Web Scrapping",
+        "Data Science Pipeline",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Sree Venkateswara College of Engineering",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.Tech.",
+      "startDate": "2018",
+      "endDate": "2022",
       "gpa": "",
       "courses": [
       ]
@@ -114,6 +87,26 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  
+  "interests": [
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
       ]
     }
   ],
