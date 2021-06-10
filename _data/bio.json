@@ -10,7 +10,7 @@
     "location": {
       "address": "  ",
       "postalCode": "524305",
-      "city": "Nellore"
+      "city": "Nellore",
       "countryCode": "India",
       },
     "profiles": [
@@ -62,7 +62,7 @@
       "gpa": "70%",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "Narayana Junior College",
       "area": "M P C",
@@ -72,8 +72,8 @@
       "gpa": "94%",
       "courses": [
       ]
-    }
-{
+    },
+    {
       "institution": "Sree Chaitanya High school",
       "area": "",
       "studyType": "Class X",
@@ -82,7 +82,7 @@
       "gpa": "8.8",
       "courses": [
       ]
-    }
+    },
   ],
   "Internship / Experience": [
     {
@@ -115,7 +115,7 @@
       "name": "Data Anaytics",
       "keywords": [
       ]
-    }
+    },
   ],
   
   "Certificates": [
@@ -126,19 +126,19 @@
     {
       "title": "MATLAB MASTER CLASS 2020",
       "awarder": "APSSDC",
-    }
+    },
     {
       "title": "MICROSOFT A I SERIES 2020",
       "awarder": "MICROSOFT",
-    }
+    },
     {
       "title": "MATLAB MASTER CLASS 2020",
       "awarder": "APSSDC",
-    }
+    },
    {
       "title": "BASIC WEB DEVELOPMENT USING HTML, CSS, BOOTSTRAP",
       "awarder": "SHAPEAI",
-    }
+    },
   ],
   "references": [
     {
