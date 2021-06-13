@@ -88,8 +88,8 @@
     {
       "company": "Avishkar Tech Solutions",
       "position": "Machine Learning",
-      "startDate": "2020-06-01",
-      "endDate": "2020-09-01",
+      "startDate": "2020-June-01",
+      "endDate": "2020-Sept-01",
       "summary": "Data Science and Machine Learning internship",
       "highlights": [
         "Utilized Python to do Data Science Pipeline (Cleaning, Wrangling, Visualization, Modeling)",
