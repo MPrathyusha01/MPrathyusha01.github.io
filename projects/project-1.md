@@ -13,7 +13,7 @@ labels:
 summary: Analysis of Netflix Data by Movies and TV shows using Data Analysis Python and Numpy, Pandas, Data Visualisation.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Netflix1.png">
   <img class="ui image" src="../images/NEtflix2.png">
   
