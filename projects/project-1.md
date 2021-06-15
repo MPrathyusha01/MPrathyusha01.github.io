@@ -5,7 +5,7 @@ image: images/netflix.jpeg
 title: Netfix Data Analysis
 permalink: projects/Netfix Data Analysis
 # All dates must be YYYY-MM-DD format!
-date: 
+date: 2020-09-01
 labels:
   - Python
   - Data Anlysis
@@ -15,16 +15,18 @@ summary: Analysis of Netflix Data by Movies and TV shows using Data Analysis Pyt
 
 <div class="ui large rounded images">
   <img class="ui image" src="../images/Netflix1.png">
+  <b>Distribution of Movies and Tv shows in Netflix</b>
   <img class="ui image" src="../images/NEtflix2.png">
-  
+  <b>No.of movies added in respective year</b>
 </div>
 
 **Netflix** was developed in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. The company's primary business is its subscription-based streaming service which offers online streaming of a library of films and television series, including those produced in-house.Due to the low-price, high-revenue philosophy. Netflix turned out to be an affordable and reliable source of fun for the entire family.
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Netflix3.png">
+  <b>Genere of movies people loves to watch</b>
   <img class="ui image" src="../images/Netflix4.png">
-  
+  <b>Name and count of country which watch Netflix most</b>
 </div>
 
 
