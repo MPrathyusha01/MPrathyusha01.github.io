@@ -22,8 +22,8 @@ summary: Analysis of Netflix Data by Movies and TV shows using Data Analysis Pyt
 **Netflix** was developed in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. The company's primary business is its subscription-based streaming service which offers online streaming of a library of films and television series, including those produced in-house.Due to the low-price, high-revenue philosophy. Netflix turned out to be an affordable and reliable source of fun for the entire family.
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Netflix1.png">
-  <img class="ui image" src="../images/NEtflix2.png">
+  <img class="ui image" src="../images/Netflix3.png">
+  <img class="ui image" src="../images/Netflix4.png">
   
 </div>
 
