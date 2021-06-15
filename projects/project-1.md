@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/netflix.jpeg
+title: Netfix Data Analysis
+permalink: projects/Netfix Data Analysis
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python
+  - Data Anlysis
+  - Data Visualization
+summary: Analysis of Netflix Data by Movies and TV shows using Data Analysis Python and Numpy, Pandas, Data Visualisation.
 ---
 
 <div class="ui small rounded images">
