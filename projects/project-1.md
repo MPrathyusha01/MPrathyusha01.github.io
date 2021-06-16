@@ -49,12 +49,9 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 
 
-<p>You can find my code  at the [github/mprathyusha01/netflix](https://github.com/MPrathyusha01/Netflix-TV-Movies-Analysis).</p>
+You can find my code  at the [github/mprathyusha01/netflix](https://github.com/MPrathyusha01/Netflix-TV-Movies-Analysis).
 
-<style>  
- p{  
-  
-  padding-bottom: 250px;  
-  
-}  
-</style> 
+
+
+
+*************
