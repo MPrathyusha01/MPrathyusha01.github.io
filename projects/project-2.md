@@ -1,25 +1,51 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/Twitter.jpg
+title: Twitter Sentimental Analysis 
+permalink: projects/Twitter Sentimental Analysis 
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-10-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Python
+  - Matplotlib
+  - Data Analysis
+  - Machine Learning
+summary: A Naive Bayes classifier to predict sentiment of tweets in Twitter using Machine Learning, Data Analysis, Visualisation.
 ---
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/Twitter 1.png">
+  <b>Distribution of Movies and Tv shows in Netflix</b>
+  <img class="ui image" src="../images/Twitter2.png">
+  <b>No.of movies added in respective year</b>
+</div>
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+## Introduction
+**Sentiment Analysis** is a technique used in text mining. It may, therefore, be described as a text mining technique for analyzing the underlying sentiment of a text message, i.e., a tweet. Twitter sentiment or opinion expressed through it may be positive, negative or neutral.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+As a part of **Natural Language Processing**, algorithms like **Naive Bayes** is used in predicting the polarity of the sentence.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+<img class="ui medium right floated rounded image" src="../images/Twitter4.png">
+In this hands-on project, we will train a Naive Bayes classifier to predict sentiment from thousands of 
+Twitter tweets. This project could be practically used by any company with social media presence to automatically predict customer's sentiment (i.e.: whether their customers are happy or not). The process could be done automatically without having humans manually review thousands of tweets and customer reviews.
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/Twitter3.png">
+  <b>Distribution of Movies and Tv shows in Netflix</b>
+ </div> 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+* Import libraries and datasets 
+* Perform Exploratory Data Analysis 
+* Perform data cleaning - removing punctuation 
+* Perform data cleaning - remove stop words 
+* Perform Count Vectorization (Tokenization) and TFIDF Vectorization 
+* Build the suitable algorithms 
+* Assess trained model performance
+
+
+Find my code at: <a href="https://github.com/MPrathyusha01/Twitter-Sentimental-Analysis-Python"><i class="large github icon"></i>MPrathyusha01/Twitter-Sentimental-Analysis</a>
+
+
+
+
+
+*******
