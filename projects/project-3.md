@@ -32,7 +32,7 @@ The dataset contains 9358 instances of hourly averaged responses from an array o
 
 ### Note
 * This dataset can be used exclusively for research purposes. Commercial purposes are fully excluded.
-* Download dataset[https://archive.ics.uci.edu/ml/machine-learning-databases/00360/AirQualityUCI.zip](here)
+* Download dataset[here] (https://archive.ics.uci.edu/ml/machine-learning-databases/00360/AirQualityUCI.zip)
  
 ## Libraries I used 
 ```
