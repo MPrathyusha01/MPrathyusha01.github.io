@@ -48,8 +48,11 @@ import warnings
 warnings.filterwarnings("ignore")
 
 ```
-**Mean squared error: 2.27**
-**Coefficient of determination: 0.96**
-**R squared value: 0.96**
+* **Mean squared error: 2.27**
+* **Coefficient of determination: 0.96**
+* **R squared value: 0.96**
 Source: <a href="https://github.com/MPrathyusha01/Italy-air-pollution"><i class="large github icon "></i>MPrathyusha01/Italy-air-pollution</a>
 
+
+
+**********
