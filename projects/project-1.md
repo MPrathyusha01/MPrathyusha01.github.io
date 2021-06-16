@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/netflix.jpeg
+image: images/netflix.png
 title: Netfix Data Analysis
 permalink: projects/Netfix Data Analysis
 # All dates must be YYYY-MM-DD format!
