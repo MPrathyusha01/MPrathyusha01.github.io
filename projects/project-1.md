@@ -53,7 +53,7 @@ You can find my code  at the [github/mprathyusha01/netflix](https://github.com/M
 
 
 <style>  
-div {  
+ {  
   
   padding-bottom: 250px;  
   
