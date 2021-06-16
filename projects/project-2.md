@@ -48,6 +48,7 @@ Twitter tweets. This project could be practically used by any company with socia
 * Build the suitable algorithms 
 * Assess trained model performance
 
+**Accuracy with Naive-bayes: 94.2 %**
 
 Find my code at: <a href="https://github.com/MPrathyusha01/Twitter-Sentimental-Analysis-Python"><i class="large github icon"></i>MPrathyusha01/Twitter-Sentimental-Analysis</a>
 
