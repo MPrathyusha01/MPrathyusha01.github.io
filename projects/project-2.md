@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Twitter.jpg
+image: images/Twitter.png
 title: Twitter Sentimental Analysis 
 permalink: projects/Twitter Sentimental Analysis 
 # All dates must be YYYY-MM-DD format!
