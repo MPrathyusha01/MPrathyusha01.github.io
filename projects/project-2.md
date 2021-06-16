@@ -17,14 +17,14 @@ summary: A Naive Bayes classifier to predict sentiment of tweets in Twitter usin
   <img class="ui image" src="../images/Twitter 1.png">
   
 </div>
-
+**The Positive words in Tweets**
 ## Introduction
 **Sentiment Analysis** is a technique used in text mining. It may, therefore, be described as a text mining technique for analyzing the underlying sentiment of a text message, i.e., a tweet. Twitter sentiment or opinion expressed through it may be positive, negative or neutral.
 <div class="ui large rounded images">
   <img class="ui image" src="../images/Twitter2.png">
 </div>
-**The Positive words in Tweets**
 
+ **The Negative words in Tweets**
 
 As a part of **Natural Language Processing**, algorithms like **Naive Bayes** is used in predicting the polarity of the sentence.
 
@@ -38,7 +38,7 @@ Twitter tweets. This project could be practically used by any company with socia
   <img class="ui image" src="../images/Twitter3.png">
   <b>Distribution of Movies and Tv shows in Netflix</b>
  </div> 
- **The Negative words in Tweets**
+
  
 * Import libraries and datasets 
 * Perform Exploratory Data Analysis 
