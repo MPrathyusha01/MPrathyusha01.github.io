@@ -1,56 +1,55 @@
 ---
 layout: project
 type: project
-image: images/Twitter.png
-title: Twitter Sentimental Analysis 
-permalink: projects/Twitter Sentimental Analysis 
+image: images/Google.png
+title: Google store analysis 
+permalink: projects/Google store analysis 
 # All dates must be YYYY-MM-DD format!
-date: 2020-10-01
+date: 2020-11-10
 labels:
   - Python
   - Matplotlib
   - Data Analysis
-  - Machine Learning
-summary: A Naive Bayes classifier to predict sentiment of tweets in Twitter using Machine Learning, Data Analysis, Visualisation.
+  - Data Visualization
+summary: Analysis of applications in Google play store using Numpy, Pandas, Data Analysis Python.
 ---
+## Google Playstore
+The dataset is taken from (https://www.kaggle.com/lava18/google-play-store-apps)[Kaggle]
+
+
+### This notebook covers the cleaning and exploration of data for 'Google Play Store Apps'.
+
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/Twitter 1.png">
+  <img class="ui image" src="../images/Google1.png">
   
 </div>
-**The Positive words in Tweets**
+
+**Top 10 categories in Google playstore**
 ## Introduction
 **Sentiment Analysis** is a technique used in text mining. It may, therefore, be described as a text mining technique for analyzing the underlying sentiment of a text message, i.e., a tweet. Twitter sentiment or opinion expressed through it may be positive, negative or neutral.
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/Twitter2.png">
+  <img class="ui image" src="../images/Google2.png">
 </div>
 
  **The Negative words in Tweets**
 
-As a part of **Natural Language Processing**, algorithms like **Naive Bayes** is used in predicting the polarity of the sentence.
+In this dataset we have
 
-<div class="ui large rounded images">
-  <img class="ui image" src="../images/Twitter4.png">
-  <b>Distribution of Movies and Tv shows in Netflix</b>
- </div> 
-In this hands-on project, we will train a Naive Bayes classifier to predict sentiment from thousands of 
-Twitter tweets. This project could be practically used by any company with social media presence to automatically predict customer's sentiment (i.e.: whether their customers are happy or not). The process could be done automatically without having humans manually review thousands of tweets and customer reviews.
-<div class="ui large rounded images">
-  <img class="ui image" src="../images/Twitter3.png">
-  <b>Distribution of Movies and Tv shows in Netflix</b>
- </div> 
+* `App`: Application name
+* `Category`: Category the app belongs to
+* `Rating`: Overall user rating of the app
+* `Reviews`: Number of user reviews for the app
+* `Size`: Size of the app
+* `Installs`: Number of user downloads/installs for the app
+* `Type`: Paid or Free
+* `Price`: Price of the app
+* `Content Rating`: Age group the app is targeted at - Children / Mature 21+ / Adult
+* `Genres`: An app can belong to multiple genres . For eg, a musical family game will belong to Music, Game, Family genres.
+* `Last Updated`: Date when the app was last updated on Play Store
+* `Current Ver`: Current version of the app available on Play Store
+* `Android Ver`: Min required Android version
 
- 
-* Import libraries and datasets 
-* Perform Exploratory Data Analysis 
-* Perform data cleaning - removing punctuation 
-* Perform data cleaning - remove stop words 
-* Perform Count Vectorization (Tokenization) and TFIDF Vectorization 
-* Build the suitable algorithms 
-* Assess trained model performance
-
-**Accuracy with Naive-bayes: 94.2 %**
-
-Find my code at: <a href="https://github.com/MPrathyusha01/Twitter-Sentimental-Analysis-Python"><i class="large github icon"></i>MPrathyusha01/Twitter-Sentimental-Analysis</a>
+Find my code at: <a href="https://github.com/MPrathyusha01/Google-Play-store-analysis"><i class="large github icon"></i>MPrathyusha01/Google-Play-store-analysis</a>
 
 
 
